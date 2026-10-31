@@ -1,0 +1,9 @@
+# 大体积媒体与临时文件
+*.mp4
+*.mov
+*.avi
+Thumbs.db
+desktop.ini
+.DS_Store
+~$*
+*.tmp
